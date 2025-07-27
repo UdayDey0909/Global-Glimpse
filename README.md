@@ -17,18 +17,21 @@
 ## 📸 Live Preview
 
 ### 🏠 Homepage Preview
+
 <div align="center">
   <img src="src/assets/HomePage-Preview.jpeg" alt="Global Glimpse Homepage" width="800" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   <p><em>Main homepage with news categories and featured articles</em></p>
 </div>
 
 ### 📄 Page Preview
+
 <div align="center">
   <img src="src/assets/Page-Preview.jpeg" alt="Global Glimpse Page Layout" width="800" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   <p><em>Detailed page layout showing article display and navigation</em></p>
 </div>
 
 ### 🔄 Application Flow Diagram
+
 <div align="center">
   <img src="src/assets/Flow-Diagram.png" alt="Global Glimpse Application Flow" width="800" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   <p><em>Complete application flow and user journey</em></p>
@@ -124,13 +127,6 @@
 3. **Rate Limiting**: Implement rate limiting to prevent abuse
 4. **CORS Configuration**: Properly configure CORS for production
 
-### Best Practices
-
-- Never commit API keys to version control
-- Use HTTPS in production
-- Implement proper error handling
-- Validate user inputs
-
 ---
 
 ## 🛠️ Troubleshooting
@@ -138,39 +134,51 @@
 ### Common Issues
 
 #### 1. **API Rate Limit Exceeded**
+
 ```
 Error: "rateLimited" or "429 Too Many Requests"
 ```
-**Solution**: 
+
+**Solution**:
+
 - The included free API key has a 1000 requests/day limit
-- Register for your own free key at https://newsapi.org/ for personal use
+- Register for your own free key at <https://newsapi.org/> for personal use
 - Implement caching for repeated requests
 - Consider upgrading your API plan for higher limits
 
 #### 2. **Images Not Loading**
+
 ```
 Error: CORS policy blocking images
 ```
+
 **Solution**:
+
 - Use a proxy service for images
 - Implement fallback images
 - Check image URLs for validity
 
 #### 3. **Search Not Working**
+
 ```
 Error: Search results empty
 ```
+
 **Solution**:
+
 - The included API key has rate limits (1000 requests/day for free tier)
-- If you hit the limit, register for your own key at https://newsapi.org/
+- If you hit the limit, register for your own key at <https://newsapi.org/>
 - Check network connectivity
 - Ensure search query is not empty
 
 #### 4. **Dark Mode Not Persisting**
+
 ```
 Error: Theme resets on page refresh
 ```
+
 **Solution**:
+
 - Check localStorage is enabled
 - Verify JavaScript is running
 - Clear browser cache
