@@ -1,19 +1,19 @@
 # 🌍 Global Glimpse - Your Gateway to World News
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/UdayDey0909/Global-Glimpse-News-Website)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/commits/main)
-[![Issues](https://img.shields.io/github/issues/UdayDey0909/Global-Glimpse-News-Website)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/issues)
-[![Stars](https://img.shields.io/badge/github-stars-yellow)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/stargazers)
-[![Forks](https://img.shields.io/badge/github-forks-blue)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/network/members)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 <div align="center">
   <img src="src/public/icon.png" alt="Global Glimpse Logo" width="120" height="120">
   <h3>Stay Informed, Stay Empowered</h3>
   <p>Your daily dose of global news, empowering stories, and insights to help you stay ahead in a rapidly changing world.</p>
 </div>
+
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/UdayDey0909/Global-Glimpse-News-Website)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/issues)
+![Lines of Code](https://img.shields.io/tokei/lines/github/UdayDey0909/Global-Glimpse)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 
 ---
 
