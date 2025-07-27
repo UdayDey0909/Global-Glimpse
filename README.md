@@ -5,6 +5,9 @@
 [![Issues](https://img.shields.io/github/issues/UdayDey0909/Global-Glimpse-News-Website)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/issues)
 [![Stars](https://img.shields.io/badge/github-stars-yellow)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/stargazers)
 [![Forks](https://img.shields.io/badge/github-forks-blue)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/network/members)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <div align="center">
   <img src="src/public/icon.png" alt="Global Glimpse Logo" width="120" height="120">
@@ -14,7 +17,23 @@
 
 ---
 
-## 📸 Live Preview
+## 📋 Table of Contents
+
+- [✨ Features](#-features)
+- [📸 Preview](#-preview)
+- [🚀 Quick Start](#-quick-start)
+- [🛠️ Troubleshooting](#️-troubleshooting)
+- [📁 Project Structure](#-project-structure)
+- [🛠️ Technologies & Tools](#️-technologies--tools)
+- [🎯 Key Features Deep Dive](#-key-features-deep-dive)
+- [🚀 Performance & Optimization](#-performance--optimization)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📞 Support & Contact](#-support--contact)
+
+---
+
+## 📸 Preview
 
 ### 🏠 Homepage Preview
 
@@ -37,6 +56,9 @@
   <p><em>Complete application flow and user journey</em></p>
 </div>
 
+> **Note**: If images don't display, they may be loading from the repository. The screenshots show the responsive design, dark/light mode toggle, and news article layouts.
+
+
 ---
 
 ## ✨ Features
@@ -50,16 +72,12 @@
 - **🌙 Dark/Light Mode** - Toggle between themes for comfortable reading
 - **⚡ Fast Loading** - Optimized performance with smooth animations
 
-### 🎨 User Experience
+### 🎨 User Experience & Quality
 
 - **🎭 Interactive UI** - Hover effects, smooth transitions, and engaging animations
 - **📊 News Statistics** - Track article counts and source credibility
 - **📧 Newsletter Subscription** - Stay updated with email notifications
 - **🔗 Social Media Integration** - Share articles across platforms
-- **📖 Read More Options** - Extended content and related articles
-
-### 🛡️ Quality & Trust
-
 - **✅ Verified Sources** - 99% trusted news sources
 - **📈 Daily Updates** - 500+ articles published daily
 - **🔒 Privacy Focused** - No tracking, clean browsing experience
@@ -111,21 +129,6 @@
    http://localhost:8000 (if using local server)
    or simply open index.html in your browser
    ```
-
----
-
-## 🔒 Security Considerations
-
-### API Key Management
-
-ℹ️ **Note**: A free NewsAPI key is included for demonstration purposes, allowing users to test the project immediately without registration.
-
-⚠️ **For Production Use**: The current implementation exposes the API key in client-side code. Consider:
-
-1. **Use Environment Variables**: Store API keys in environment variables
-2. **Backend Proxy**: Create a backend service to handle API calls
-3. **Rate Limiting**: Implement rate limiting to prevent abuse
-4. **CORS Configuration**: Properly configure CORS for production
 
 ---
 
@@ -312,12 +315,16 @@ Global-Glimpse/
 - **Lazy Loading** - Images load as needed
 - **Caching** - Browser caching for faster repeat visits
 
-### SEO Optimization
+### SEO & Accessibility
 
-- **Semantic HTML** - Proper heading structure
+- **Semantic HTML** - Proper heading structure and landmarks
 - **Meta Tags** - Optimized for search engines
-- **Alt Text** - Descriptive image alt attributes
+- **Alt Text** - Descriptive image alt attributes for screen readers
 - **Clean URLs** - SEO-friendly page structure
+- **Keyboard Navigation** - Full keyboard accessibility support
+- **ARIA Labels** - Enhanced screen reader compatibility
+- **Color Contrast** - WCAG compliant color schemes
+- **Focus Indicators** - Clear focus states for navigation
 
 ---
 
@@ -345,34 +352,20 @@ We welcome contributions from the community! Here's how you can help:
 4. Push to the branch
 5. Open a Pull Request
 
-### 📝 Code Style
+### 📝 Code Style & Guidelines
 
-- Follow existing code formatting
-- Add comments for complex logic
-- Test your changes thoroughly
+- Follow existing code formatting and naming conventions
+- Add comments for complex logic and functions
+- Test your changes thoroughly across different browsers
 - Update documentation if needed
+- Ensure responsive design works on all screen sizes
+- Validate HTML and CSS before submitting
 
 ---
 
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Uday Dey
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
 
 ---
 
@@ -383,6 +376,19 @@ copies or substantial portions of the Software.
 - **Email**: [uday-dey-work@gmail.com](mailto:uday-dey-work@gmail.com)
 - **LinkedIn**: [Uday Dey](https://www.linkedin.com/in/uday-dey-76a066345/)
 - **Twitter**: [@uday_dey_work](https://twitter.com/uday_dey_work)
+
+### 🐛 Reporting Issues
+
+- **GitHub Issues**: Use the [Issues tab](https://github.com/UdayDey0909/Global-Glimpse-News-Website/issues) for bug reports
+- **Feature Requests**: Open an issue with the "enhancement" label
+- **Questions**: Feel free to email or create a discussion in GitHub
+
+### 🤝 Contributing Guidelines
+
+- Fork the repository and create a feature branch
+- Follow the existing code style and conventions
+- Test your changes thoroughly
+- Submit a pull request with a clear description
 
 ## 🙏 Acknowledgments
 
