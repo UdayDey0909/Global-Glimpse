@@ -8,11 +8,11 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/UdayDey0909/Global-Glimpse-News-Website)](https://github.com/UdayDey0909/Global-Glimpse-News-Website/issues)
-![Lines of Code](https://img.shields.io/tokei/lines/github/UdayDey0909/Global-Glimpse)
+![Lines of Code](https://img.shields.io/badge/lines-5539-blue)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=UdayDey0909.Global-Glimpse)
 
 
 ---
