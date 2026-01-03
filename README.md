@@ -58,7 +58,6 @@
 
 > **Note**: If images don't display, they may be loading from the repository. The screenshots show the responsive design, dark/light mode toggle, and news article layouts.
 
-
 ---
 
 ## ✨ Features
@@ -86,6 +85,15 @@
 ---
 
 ## 🚀 Quick Start
+
+### ⚠ Live Demo Limitation
+
+This project uses **NewsAPI**, which does not allow API requests from public
+frontend domains due to CORS and security restrictions.
+
+✔ Works perfectly in local development  
+✔ API key is required and must be added manually  
+❌ Live demo is not available due to API policy
 
 ### Prerequisites
 
